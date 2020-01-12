@@ -83,9 +83,9 @@
   "gamesettings.online.disabled": "Joc en línia bloquejat",
   "gamesettings.online.disabled.info": "Has de corregir algunes coses per a poder jugar en mode multijugador en línia",
   "gamesettings.online.info": "Juga amb els teus amics fent servir el joc en línia.",
-  "gamesettings.passplay.info": "Play with your friends offline on this device by passing it around.",
-  "gamesettings.size.tiles": "{0} tiles map.",
-  "gamesettings.continue": "CONTINUAR",
+  "gamesettings.passplay.info": "Juga amb els teus amics fora de líni passant aquest dispositiu.",
+  "gamesettings.size.tiles": "Mapa de {0} caselles.",
+  "gamesettings.continue": "CONTINUA",
 
   "gamemode.perfection.caps": "PERFECCIÓ",
   "gamemode.perfection": "Perfecció",
