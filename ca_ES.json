@@ -912,16 +912,16 @@
   "credits.build": "Build version",
   "credits.os": "OS",
   "credits.screendpi": "Screen DPI",
-  "credits.screensize": "Screen size",
-  "credits.privacy": "Privacy Policy",
-  "credits.terms": "Terms of Service",
+  "credits.screensize": "Mida de pantalla",
+  "credits.privacy": "Política de privacitat",
+  "credits.terms": "Termes de servei",
 
-  "date.day": "day",
-  "date.days": "days",
-  "date.hour": "hour",
-  "date.hours": "hours",
-  "date.minute": "minute",
-  "date.minutes": "minutes",
-  "date.second": "second",
-  "date.seconds": "seconds"
+  "date.day": "dis",
+  "date.days": "dies",
+  "date.hour": "hora",
+  "date.hours": "hores",
+  "date.minute": "minut",
+  "date.minutes": "minuts",
+  "date.second": "segon",
+  "date.seconds": "segons"
 }
