@@ -491,7 +491,7 @@
   "wcontroller.examine.population.title": "Població",
   "wcontroller.move.unto.unit": "NO ÉS POSSIBLE MOURE'S SOBRE UNA ALTRA UNITAT",
   "wcontroller.building.upgrade": "El teu {0} ha pujat de nivell a {1}!",
-  "wcontroller.building.upgrade.reward": "{0} ha crescut al nivell {1} i la seva producció s'ha incrementat en +1. També pots triar una recompensa addicional:"
+  "wcontroller.building.upgrade.reward": "{0} ha crescut al nivell {1} i la seva producció s'ha incrementat en +1. També pots triar una recompensa addicional:",
   "wcontroller.reward.workshop": "taller",
   "wcontroller.reward.citywall": "muralles",
   "wcontroller.reward.populationgrowth": "increment de població",
