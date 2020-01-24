@@ -808,7 +808,7 @@
   "friendlist.new.button": "ADD",
   "friendlist.new.input": "Player ID:",
   "friendlist.new.myself.title": "Me, myself & I",
-  "friendlist.new.myself.info": "Sembla que t'has intentat afegir a tu mateix com a amic. Pot semblar una cosa divertida però afegiria una capa existencial al joc que no podem gestionar ara mateix. Siusplau, envia l'ID d'un altre jugador."
+  "friendlist.new.myself.info": "Sembla que t'has intentat afegir a tu mateix com a amic. Pot semblar una cosa divertida però afegiria una capa existencial al joc que no podem gestionar ara mateix. Siusplau, envia l'ID d'un altre jugador.",
   "friendlist.new.empty.title": "La buidor",
   "friendlist.new.empty.info": "L'identificador de jugador que has proporcionat estava buit! No hauries de voler-te fer amic del no res, és un cam realment solitari.",
   "friendlist.new.exists.title": "Jugador duplicat",
